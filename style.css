@@ -15,3 +15,8 @@ img{
 nav{
   text-align: center;
 }
+
+nav li{
+  padding: 10px;
+  background-color: whitesmoke;
+}

@@ -35,7 +35,7 @@ text-align: center;
 
 #details{
   display: flex;
-  background-color: garkred;
+  background-color: darkgray;
 }
 
 #details div{

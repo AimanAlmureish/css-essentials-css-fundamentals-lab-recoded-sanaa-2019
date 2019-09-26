@@ -16,7 +16,7 @@ nav{
   text-align: center;
 }
 
-nav li{
+nav a{
   padding: 10px;
   background-color: whitesmoke;
 }
